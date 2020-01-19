@@ -1,4 +1,4 @@
-GET http://localhost:8080/spring-mvc/greet
+GET http://localhost:8080/spring-mvc-0.0.1-SNAPSHOT/greet
 Accept: */*
 Cache-Control: no-cache
 
